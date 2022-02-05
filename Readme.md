@@ -1,8 +1,8 @@
-#The name of Repo
+# The name of Repo
 
-name
+Sample Test App
 
-#The summary of projects -2
+# The summary of project
 
-summary
+Git startup 
 
